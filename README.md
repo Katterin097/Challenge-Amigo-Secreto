@@ -51,7 +51,7 @@ Challenge Amigo Secreto/
 ## 🚀 Instalación y Ejecución
 
 1. **Clonar el repositorio**
-- git clone https://github.com/tu-usuario/amigo-secreto.git
+- git clone https://github.com/Katterin097/Challenge-Amigo-Secreto.git
 
 2. **Abrir el proyecto**
 - No se requiere instalación de dependencias.
